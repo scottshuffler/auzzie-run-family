@@ -1,0 +1,507 @@
+{
+  "pups": [
+    {
+      "src": "/static/toby.jpg",
+      "mom": "Dahlia",
+      "dad": "Ironman",
+      "born": "11/03/2018",
+      "name": "Toby"
+    },
+    {
+      "src": "/static/tesla.jpg",
+      "mom": "Snow",
+      "dad": "BTO",
+      "born": "03/27/2019",
+      "name": "Tesla"
+    },
+    {
+      "src": "/static/yogi.jpg",
+      "mom": "Tequila",
+      "dad": "Ironman",
+      "born": "03/20/2019",
+      "name": "Falkor (Yogi)"
+    },
+    {
+      "src": "/static/blackjack.jpg",
+      "mom": "River",
+      "dad": "Harley",
+      "born": "01/05/2012",
+      "name": "Black Jack"
+    },
+    {
+      "src": "/static/kona.jpg",
+      "mom": "Snow",
+      "dad": "BTO",
+      "born": "03/28/2018",
+      "name": "Kona"
+    },
+    {
+      "src": "/static/roxie.jpg",
+      "mom": "Trini",
+      "dad": "London",
+      "born": "06/28/2019",
+      "name": "Roxie"
+    },
+    {
+      "src": "/static/ironman.jpg",
+      "mom": "Amber",
+      "dad": "River",
+      "born": "Unknown",
+      "name": "Ironman"
+    },
+    {
+      "src": "/static/london.jpg",
+      "mom": "Marina",
+      "dad": "Bruiser",
+      "born": "05/12/2016",
+      "name": "London"
+    },
+    {
+      "src": "/static/murrey.jpg",
+      "mom": "Crazy",
+      "dad": "Ironman",
+      "born": "Unknown",
+      "name": "Murrey"
+    },
+    {
+      "src": "/static/bto.jpg",
+      "mom": "Marina",
+      "dad": "Bruiser",
+      "born": "05/12/2016",
+      "name": "BTO"
+    },
+    {
+      "src": "/static/sport.jpg",
+      "mom": "Unknown",
+      "dad": "Unknown",
+      "from": "Shurdan Creek",
+      "born": "Unknown",
+      "name": "Sport"
+    },
+    {
+      "src": "/static/bosco.jpg",
+      "mom": "Star",
+      "dad": "Roamie",
+      "from": "AuzzieRun",
+      "born": "Unknown",
+      "name": "Bosco"
+    },
+    {
+      "src": "/static/river.jpg",
+      "mom": "Celina's Lucille Ball",
+      "dad": "Missouri's Rolf Banks",
+      "from": "Amy Manning",
+      "born": "10/17/2007",
+      "name": "River"
+    },
+    {
+      "src": "/static/bear.jpg",
+      "mom": "BB Miss Ritzee Rozee",
+      "dad": "BB Cha Ching N Bling",
+      "from": "Bonnie M Ziel",
+      "born": "11/16/2009",
+      "name": "Bear"
+    },
+    {
+      "src": "/static/titan.jpg",
+      "mom": "JBK Dutchess of Shurdan Creek",
+      "dad": "Overlands Prepare For Victory",
+      "from": "Mary Gregory",
+      "born": "02/27/2009",
+      "name": "Titan"
+    },
+    {
+      "src": "/static/rusty.jpg",
+      "mom": "Bullocks Blue Gizmo",
+      "dad": "Bullocks Lone Star",
+      "from": "Maggie J Bullock",
+      "born": "01/10/2007",
+      "name": "Rusty"
+    },
+    {
+      "src": "/static/orrie.jpg",
+      "mom": "Timberline Moriah Savannah Twister",
+      "dad": "Blue River from the Banks",
+      "from": "P Lorraine Carroll",
+      "born": "12/01/2009",
+      "name": "Orrie"
+    },
+    {
+      "src": "/static/watchie.jpg",
+      "mom": "Timberlines Raise the Flag",
+      "dad": "Mills Creek's Patriotic Devotion",
+      "from": "Maggie Bullock",
+      "born": "09/18/2009",
+      "name": "Watchie"
+    },
+    {
+      "src": "/static/bruiser.jpg",
+      "mom": "Timberline Moriah Savannah",
+      "dad": "Blue River from the Banks",
+      "from": "P Lorraine Carroll",
+      "born": "09/11/2013",
+      "name": "Bruiser"
+    },
+    {
+      "src": "/static/roamie.jpg",
+      "mom": "Auzzie Run's Lizzie with Bling Eyes",
+      "dad": "Timberline's Red El Dorado",
+      "from": "P Lorraine Carroll",
+      "born": "09/07/2014",
+      "name": "Roamie"
+    },
+    {
+      "src": "/static/snow.jpg",
+      "mom": "Moriah",
+      "dad": "River",
+      "from": "AuzzieRun",
+      "born": "09/11/2013",
+      "name": "Snow"
+    },
+    {
+      "src": "/static/sierra.jpg",
+      "mom": "Ginger",
+      "dad": "Titan",
+      "from": "AuzzieRun",
+      "born": "04/04/2014",
+      "name": "Sierra"
+    },
+    {
+      "src": "/static/margarita.jpg",
+      "mom": "Marina",
+      "dad": "Bruiser",
+      "from": "AuzzieRun",
+      "born": "05/12/2016",
+      "name": "Margarita"
+    },
+    {
+      "src": "/static/marina.jpg",
+      "mom": "Sapphire",
+      "dad": "Orrie",
+      "from": "AuzzieRun",
+      "born": "06/24/2013",
+      "name": "Marina"
+    },
+    {
+      "src": "/static/dahlia.jpg",
+      "mom": "Jade",
+      "dad": "Titan",
+      "from": "AuzzieRun",
+      "born": "07/12/2012",
+      "name": "Dahlia"
+    },
+    {
+      "src": "/static/crazy.jpg",
+      "mom": "Sapphire",
+      "dad": "Titan",
+      "from": "AuzzieRun",
+      "born": "05/01/2012",
+      "name": "Crazy"
+    },
+    {
+      "src": "/static/tequila.jpg",
+      "mom": "Dahlia",
+      "dad": "Sport",
+      "from": "AuzzieRun",
+      "born": "06/30/16",
+      "name": "Tequila"
+    },
+    {
+      "src": "/static/honey.jpg",
+      "mom": "Dream",
+      "dad": "Roamie",
+      "from": "AuzzieRun",
+      "born": "Unknown",
+      "name": "Honey"
+    },
+    {
+      "src": "/static/jade.jpg",
+      "mom": "Bullocks Blue Gizmo",
+      "dad": "Bullocks Lone Star",
+      "from": "Maggie J Bullock",
+      "born": "01/10/2007",
+      "name": "Jade"
+    },
+    {
+      "src": "/static/ginger.jpg",
+      "mom": "Harley",
+      "dad": "River",
+      "from": "Maggie J Bullock",
+      "born": "01/04/2012",
+      "name": "Ginger"
+    },
+    {
+      "src": "/static/moriah.jpg",
+      "mom": "Timberline Savannah Shurdan Creek",
+      "dad": "Timberline's Missouri Twister",
+      "from": "Maggie J Bullock",
+      "born": "12/01/2007",
+      "name": "Moriah"
+    },
+    {
+      "src": "/static/sapphire.jpg",
+      "mom": "Timberline Virginia Shurdan Creek",
+      "dad": "Timberline's the Hired Hand",
+      "from": "Maggie J Bullock",
+      "born": "12/17/2007",
+      "name": "Sapphire"
+    },
+    {
+      "src": "/static/amber.png",
+      "mom": "MHK Sagecreek Fancy",
+      "dad": "MHK Shadow on the Country Road",
+      "from": "Maggie J Bullock",
+      "born": "12/19/2007",
+      "name": "Amber"
+    },
+    {
+      "src": "/static/maggiemae.jpg",
+      "mom": "Sapphire",
+      "dad": "Orrie",
+      "from": "AuzzieRun",
+      "born": "06/24/2013",
+      "name": "Maggie Mae"
+    },
+    {
+      "src": "/static/cooper.jpg",
+      "mom": "Dahlia",
+      "dad": "Sport",
+      "from": "AuzzieRun",
+      "born": "07/09/2015",
+      "name": "Cooper"
+    },
+    {
+      "src": "/static/iris.jpg",
+      "mom": "Sapphire",
+      "dad": "Bear",
+      "from": "AuzzieRun",
+      "born": "02/22/2011",
+      "name": "Iris Littleflower Softbelly Torpedo"
+    },
+    {
+      "src": "/static/sierra-2.jpg",
+      "mom": "Trini",
+      "dad": "London",
+      "from": "AuzzieRun",
+      "born": "06/18/2018",
+      "name": "Sierra"
+    },
+    {
+      "src": "/static/daisy.jpg",
+      "mom": "Savannah",
+      "dad": "River",
+      "from": "AuzzieRun",
+      "born": "03/26/2014",
+      "name": "Daisy"
+    },
+    {
+      "src": "/static/stellablue.jpg",
+      "mom": "Belle",
+      "dad": "Ninja Star",
+      "from": "AuzzieRun",
+      "born": "3/24/14",
+      "name": "Stella Blue"
+    },
+    {
+      "src": "/static/dakota.jpg",
+      "mom": "Skye",
+      "dad": "Bandit",
+      "from": "AuzzieRun",
+      "born": "2013",
+      "name": "Dakota"
+    },
+    {
+      "src": "/static/skye.jpg",
+      "mom": "Dahlia",
+      "dad": "Sport",
+      "from": "AuzzieRun",
+      "born": "06/30/2016",
+      "name": "Skye"
+    },
+    {
+      "src": "/static/zeppelin.jpg",
+      "mom": "Belle",
+      "dad": "Ninja Star",
+      "from": "AuzzieRun",
+      "born": "03/24/2014",
+      "name": "Zeppelin"
+    },
+    {
+      "src": "/static/luke.jpg",
+      "mom": "Moriah",
+      "dad": "River",
+      "from": "AuzzieRun",
+      "born": "12/01/2009",
+      "name": "Luke"
+    },
+    {
+      "src": "/static/easton.jpg",
+      "mom": "Jade",
+      "dad": "Bear",
+      "from": "AuzzieRun",
+      "born": "04/06/2011",
+      "name": "Easton"
+    },
+    {
+      "src": "/static/indie.jpg",
+      "mom": "Dahlia",
+      "dad": "Ironman",
+      "from": "AuzzieRun",
+      "born": "12/31/2016",
+      "name": "Indie"
+    },
+    {
+      "src": "/static/blake.jpg",
+      "mom": "Sapphire",
+      "dad": "Red Eldorado (Rusty)",
+      "from": "AuzzieRun",
+      "born": "07/19/2010",
+      "name": "Blake"
+    },
+    {
+      "src": "/static/elliemae.jpg",
+      "mom": "Moriah",
+      "dad": "River",
+      "from": "AuzzieRun",
+      "born": "02/14/2013",
+      "name": "Ellie Mae"
+    },
+    {
+      "src": "/static/oliver.jpg",
+      "mom": "Trini",
+      "dad": "London",
+      "from": "AuzzieRun",
+      "born": "06/16/2018",
+      "name": "Oliver"
+    },
+    {
+      "src": "/static/rue.jpg",
+      "mom": "Sierra",
+      "dad": "Roamie",
+      "from": "AuzzieRun",
+      "born": "03/30/2016",
+      "name": "Rue"
+    },
+    {
+      "src": "/static/sookie.jpg",
+      "mom": "Sapphire",
+      "dad": "Rusty",
+      "from": "AuzzieRun",
+      "born": "07/19/2010",
+      "name": "Sookie Down Under"
+    },
+    {
+      "src": "/static/georgia.jpg",
+      "mom": "Skye",
+      "dad": "Bandit",
+      "from": "AuzzieRun",
+      "born": "04/??/2013",
+      "name": "Georgia"
+    },
+    {
+      "src": "/static/cooper-2.jpg",
+      "mom": "Marina",
+      "dad": "Bruiser",
+      "from": "AuzzieRun",
+      "born": "05/12/2016",
+      "name": "Cooper"
+    },
+    {
+      "src": "/static/kimber.jpg",
+      "mom": "Marina",
+      "dad": "Bruiser",
+      "from": "AuzzieRun",
+      "born": "05/12/2016",
+      "name": "Kimber"
+    },
+    {
+      "src": "/static/dixiebelle.jpg",
+      "mom": "Sapphire",
+      "dad": "Orrie",
+      "from": "AuzzieRun",
+      "born": "06/24/2013",
+      "name": "Dixie Belle of the Auzzie Run Ball"
+    },
+    {
+      "src": "/static/deltablue.jpg",
+      "mom": "Belle",
+      "dad": "Ninja Star",
+      "from": "AuzzieRun",
+      "born": "03/25/2014",
+      "name": "Delta Blue Mia Way from Auzzie Run"
+    },
+    {
+      "src": "/static/bentley.jpg",
+      "mom": "Dahlia",
+      "dad": "Sport",
+      "from": "AuzzieRun",
+      "born": "06/30/2016",
+      "name": "Bentley"
+    },
+    {
+      "src": "/static/finn.jpg",
+      "mom": "Snow",
+      "dad": "Bosco",
+      "from": "AuzzieRun",
+      "born": "11/??/2017",
+      "name": "Finn"
+    },
+    {
+      "src": "/static/aster.jpg",
+      "mom": "Lizzie",
+      "dad": "Rusty",
+      "from": "AuzzieRun",
+      "born": "02/07/2014",
+      "name": "Aster"
+    },
+    {
+      "src": "/static/aurora.jpg",
+      "mom": "Sierra",
+      "dad": "Roamie",
+      "from": "AuzzieRun",
+      "born": "03/30/2016",
+      "name": "Aurora"
+    },
+    {
+      "src": "/static/atlas.jpg",
+      "mom": "Sierra",
+      "dad": "Orrie",
+      "from": "AuzzieRun",
+      "born": "01/30/2017",
+      "name": "Atlas"
+    },
+    {
+      "src": "/static/kai.jpg",
+      "mom": "Sierra",
+      "dad": "Bruiser",
+      "from": "AuzzieRun",
+      "born": "01/30/2018",
+      "name": "Kai"
+    },
+    {
+      "src": "/static/baloo.jpg",
+      "mom": "Aurora",
+      "dad": "Bear",
+      "from": "AuzzieRun",
+      "born": "09/11/20??",
+      "name": "Baloo"
+    },
+    {
+      "src": "/static/mowgli.jpg",
+      "mom": "Aurora",
+      "dad": "Bear",
+      "from": "AuzzieRun",
+      "born": "09/11/20??",
+      "name": "Mowgli"
+    },
+    {
+      "src": "/static/bindi.jpg",
+      "mom": "Sapphire",
+      "dad": "Titan",
+      "from": "AuzzieRun",
+      "born": "??/??/20??",
+      "name": "Bindi"
+    }
+
+  ]
+}
